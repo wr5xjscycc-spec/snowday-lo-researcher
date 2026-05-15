@@ -106,7 +106,7 @@ First read `exclusion_list.txt`. Then include its full contents verbatim in ever
 > Task: Find summer and year-round programs at universities, colleges, and national labs in [domain]
 > for high school students. Focus on regional and mid-tier institutions — Ivy programs are likely
 > already on Snowday. Apply the quality criteria below. Skip any program on the exclusion list.
-> Run at least 15 distinct WebSearch queries with varied keywords. For each promising result, use
+> Run at least 50 distinct WebSearch queries with significantly varied phrasing, synonyms, and angles. For each promising result, use
 > WebFetch to read the program's actual website and verify details before including it. Focus on
 > niche, regional, or recently-launched programs — skip anything broadly famous.
 > Write results to `research_agent_1.md`. Return: "Agent 1 complete. Found N candidates."
